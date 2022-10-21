@@ -2,8 +2,8 @@
 set -e
 
 export org="Rochith"
-export user="Rochith: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"
-export branch="t1" 
+export user="Rochith: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"
+export branch="main" 
 
 declare -a repositories=(
     "D4"
